@@ -3,5 +3,5 @@ layout: default
 title: hello word
 ---
 # Today is good
-I have to say today is good
-![playground](./IMG_0022.jpg)
+Life is like a boat
+![playground](IMG_0022.jpg){:class="img-responsive"}
