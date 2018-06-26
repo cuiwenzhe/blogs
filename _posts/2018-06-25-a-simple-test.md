@@ -2,9 +2,9 @@
 layout: post
 title: "This is a test!"
 author: "Wenzhe Cui"
-categories: journal
+categories: photo
 tags: [documentation,sample]
-image:changlicoffeebean.jpeg
+image: changlicoffeebean.jpeg
 ---
 This is a test. 
 
