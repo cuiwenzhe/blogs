@@ -6,7 +6,7 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: '流水帐', path: 'menu', url: 'writing.html'}
+- {name: '记录', path: 'menu', url: 'writing.html'}
 - {name: '照片', path: 'menu', url: 'photograph.html'}
 - {name: '玩意儿', path: 'menu', url: 'thing.html'}
 - {name: '故事', path: 'menu', url: 'story.html'}
