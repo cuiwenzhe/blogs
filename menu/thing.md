@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 照片
+title: 玩意儿
 ---
 <ul class="posts">
   {% for post in site.posts %}
-   {% if post.category == 'photo' %}
-    {% unless post.next %}	
+   {% if post.category == 'thing' %}
+    {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -14,11 +14,6 @@ title: 照片
         <h3>{{ post.date | date: '%Y' }}</h3>
       {% endif %}
     {% endunless %}
-    {% if post.image %}
-    <div class="thumbnail-container">
-    <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}"></a>
-    </div>
-    {% endif %}
     <li itemscope>
       <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
       <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%B %-d" }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
