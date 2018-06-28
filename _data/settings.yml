@@ -9,7 +9,7 @@ menu:
 - {name: '记录', path: 'menu', url: 'writing.html'}
 - {name: '照片', path: 'menu', url: 'photograph.html'}
 - {name: '玩意儿', path: 'menu', url: 'thing.html'}
-- {name: '故事', path: 'menu', url: 'story.html'}
+- {name: '随便写', path: 'menu', url: 'story.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

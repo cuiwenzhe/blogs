@@ -1,10 +1,13 @@
 ---
 layout: page
-title: 故事
+title: 随便写
 ---
 <ul class="posts">
   {% for post in site.posts %}
    {% if post.category == 'story' %}
+   <h1>
+   <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+   </h1>
     {% assign words = post.content | strip_html | number_of_words %}
      {% if words >= 200 %}
       {{ post.content | strip_html | truncate: 200 }} 
@@ -12,7 +15,6 @@ title: 故事
      {% else %}
       {{ post.content }} 
     <li itemscope>
-      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
       <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%B %-d" }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
     </li>
     {% endif %}

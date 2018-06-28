@@ -1,7 +1,12 @@
 <div class="menu">
   <nav class="menu-content">
     {% for item in site.data.settings.menu %}
+    {% if page.title == item.name %}
+        <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}"><font color="222222">{{ item.name }}</font></a>
+        
+    {% else %}
       <a href="{{ site.github.url }}/{{ item.path }}/{{ item.url }}">{{ item.name }}</a>
+    {% endif %}
     {% endfor %}
   </nav>
   <nav class="social-icons">
