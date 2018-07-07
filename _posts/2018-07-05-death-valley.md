@@ -39,7 +39,7 @@ image: /journey/death_valley/artist.jpg
 ### 一点建议
 ![sad]({{ "/assets/img/journey/death_valley/map.jpg" | absolute_url }})  
 
-路很好走，又弯又长，我拿把旧钥匙敲着厚厚的墙。。。不好意思跑题了。 检查轮胎，把油加满，能一直从维加斯穿过死谷到达 Bishop。死谷有一些加油站但是不多，进去之前先找个地图把加油站标出来，手机一直没信号。另外，带相机，手机有可能过热无法照相，还有一定一定要带足水。  
+路很好走，又弯又长，我拿把旧钥匙敲着厚厚的墙。。。跑题了。 检查轮胎，把油加满，能一直从维加斯穿过死谷到达 Bishop。死谷有一些加油站但是不多，进去之前先找个地图把加油站标出来，手机一直没信号。另外，带相机，手机有可能过热无法照相，还有一定一定要带足水。  
 
 ![sad]({{ "/assets/img/journey/death_valley/road_out.jpg" | absolute_url }})   
 
