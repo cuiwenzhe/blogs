@@ -7,7 +7,6 @@ tags: [journey]
 image: /journey/death_valley/artist.jpg
 ---
 > Remember that silence is sometimes the best answer.  
-翻译：造物主是个老不正经, 把大地弄成这个样子。
 
 孤独是很难得的体验。 抱着这种想法，义无反顾的驶向荒原。一路上植物越来越少，信号越来越弱，直至消失。第一次抱着地图开车，心里有些忐忑，好在道路很简单很快就适应了。而死谷并没有网上描述的那么孤独，一路上偶尔还能碰到车，第一次到景点还看见了一小撮游客。  
 
