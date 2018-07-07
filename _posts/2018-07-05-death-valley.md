@@ -5,7 +5,6 @@ author: "Wenzhe Cui"
 category: photo
 tags: [journey]
 image: /journey/death_valley/artist.jpg
-imgUrl: /journey/death_valley/artist.jpg
 ---
 > Remember that silence is sometimes the best answer.  
 
