@@ -16,7 +16,10 @@ title: Home
   <p>
 {% assign words = post.content | strip_html | number_of_words %}
 {% if words >= 200 %}
-    {{ post.content | strip_html | truncate: 200 }} <a href="{{ site.github.url }}{{ post.url }}">>>></a>
+    {{ post.content | strip_html | truncate: 200 }} <a href="{{ site.github.url }}{{ post.url }}">Continue</a>
+{% elsif words <= 50 %}
+    {{ post.content | strip_html | truncate: 2 }}
+    <a href="{{ site.github.url }}{{ post.url }}">Continue</a>
 {% else %}
    {{ post.content }} 
 {% endif %}
