@@ -4,8 +4,9 @@ title: "两地之间"
 author: "Wenzhe Cui"
 category: story
 tags: [journey]
-image: /journey/between_two_cities.jpg
+image: /journey/between_two_cities.jpg 
 ---
+> 那些熟悉的旋律像是一扇扇窗，透过它们，我常常看到远方故乡的模样
 
 不知不觉，工作快一年了。每周在波士顿和石溪之间往返，似乎成了一种习惯。我常常开着那辆熟悉的车，一路上风从车窗刮过。新英格兰漫长的冬天，夜晚似乎永无止境。
 
@@ -15,8 +16,6 @@ image: /journey/between_two_cities.jpg
 
 我常常试图想要平衡自己的生活，太紧张了想看点轻松的东西 ，太开心了想看点忧郁的东西，吃的太多想要出去跑，动的太多又想要吃的好。我常常感到满足，不太有努力的想法。也会感到焦虑，充满斗志的干上一阵。感觉日子过得就像拼拼图，永远有那几片找不到，却也觉得拼不完也没什么大不了。每次到了杰弗逊港都会开心一下，终于到家了。又会蓦然惆怅，这个家，并不是我的故乡。这里是陌生国度里的一个小小驿站，这里的阳光，这里的空气，虽然温暖、清新，却总带着一丝陌生感。我如同一个过客，行走在两地之间。
 
-![sad]({{%20"/assets/img/xiaoman_2.jpeg"%20|%20absolute_url%20}}) 
-
-
+![sad]({{ "/assets/img/journey/xiaoman_2.jpeg" | absolute_url }}) 
 
 
